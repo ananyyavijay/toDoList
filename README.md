@@ -18,7 +18,7 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 
 1. **Clone the repository**  
    ```bash
-   
+   https://github.com/ananyyavijay/toDoList.git
 Open index.html in your browser
 
 Start adding tasks!
